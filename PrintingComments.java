@@ -1,4 +1,9 @@
 class PrintingComments extends ConsoleProgram {
+  /**
+  * A printing and comments example
+  * @author:
+  */
+  
   
   public void run() {
 
